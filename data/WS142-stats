@@ -1,0 +1,10 @@
+Total genes                         : 21813
+Genetically-defined and cloned genes: 6025
+Genetically-defined  : 70
+Lacking RNAi results : 2106
+   With RNAi results : 19707
+      WT result only : 15305
+      Mutant only    : 1183
+      Both           : 3219
+Proportion of genetically defined genes with a WT RNAi phenotype: 77.6627594255848
+Proportion of genetically defined genes with a mutant RNAi phenotype: 22.3372405744152
